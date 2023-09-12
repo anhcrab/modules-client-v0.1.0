@@ -1,0 +1,17 @@
+- PREPARE: 
+  + react
+  + react-dom
+  + react-router-dom
+  + bootstrap
+  + uuid
+  + dotenv
+  + axios
+  + firebase
+  + react-quill
+  + emailjs
+  + sass
+
+- AUTHENTICATION: Login, Register
+- AUTHORIZATION: Master Admin, Admin, Shop Owner, Editor, Member, Client
+- ADMIN PAGE: ...
+...
